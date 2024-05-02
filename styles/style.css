@@ -181,9 +181,6 @@
   background-size:cover;
 }
 
-.card_type_film{
-  background-image:url(../images/card-lot-01.jpg);
-}
 
 .card__title{
   z-index: 2;
@@ -203,6 +200,10 @@
   font-size: 20px;
   font-style: normal;
   line-height: 120%;
+}
+
+.card_type_film{
+  background-image:url(../images/card-lot-01.jpg);
 }
 
 .card_type_book{
