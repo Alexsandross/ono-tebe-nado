@@ -55,7 +55,6 @@
 
 .address__text {
   max-width: 240px;
-  height: 49px;
 } 
 
 .cover {
@@ -251,7 +250,7 @@
   background-color:black;
 }
 
-.test:nth-child(2n+2) {
+.grid-item:nth-child(2n+2) {
   display: none;
 }
 
