@@ -251,6 +251,10 @@
   background-color:black;
 }
 
+.test:nth-child(2n+2) {
+  display: none;
+}
+
 .about__title{
   margin-top:101px;
   margin-left:72px;
